@@ -32,10 +32,7 @@ Perangkat ini menggunakan NodeMCU yang menghasilkan output dari button yang di t
 
 
 ### Board Schematic
-1. Design Schematic
- 
-
-3. Our Schematic
-  
+Schematic :
+  ![Schematic](https://github.com/anantaYSR/posttest2-praktikum-iot-unmul-2024/assets/93465182/f57e2d8b-a78f-4732-b72e-62257a31b7c2)
 
 ### Link Video : https://drive.google.com/file/d/1-FqQs_S9my15pQNa74Cf3ODPgYzu9q5s/view?usp=drivesdk
